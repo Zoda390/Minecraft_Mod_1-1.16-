@@ -25,7 +25,7 @@ public class TutorialMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		bus.addListener(this::setup);
 
-		//EntityTypeInit.ENTITY_TYPES.register(bus);
+		EntityTypeInit.ENTITY_TYPES.register(bus);
 		ItemInit.ITEMS.register(bus);
 		TileEntityTypeInit.TILE_ENTITY_TYPE.register(bus);
 		BlockInit.BLOCKS.register(bus);
