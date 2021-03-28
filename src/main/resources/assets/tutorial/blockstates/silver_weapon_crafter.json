@@ -1,0 +1,5 @@
+{
+  "variants": {
+      "": {"model": "tutorial:block/silver_weapon_crafter"}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "ccc",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "item": "tutorial:ice_cream"
+    },
+    "c": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "tutorial:chocolate_ice_cream"
+  }
+}

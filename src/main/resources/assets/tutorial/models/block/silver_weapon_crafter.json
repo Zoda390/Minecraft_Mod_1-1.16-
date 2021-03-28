@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tutorial:blocks/silver_weapon_crafter_bottom",
+    "up": "tutorial:blocks/silver_weapon_crafter_top",
+    "north": "tutorial:blocks/silver_weapon_crafter_front",
+    "east": "tutorial:blocks/silver_weapon_crafter_side",
+    "south": "tutorial:blocks/silver_weapon_crafter_side2",
+    "west": "tutorial:blocks/silver_weapon_crafter_side2",
+    "particle": "block/birch_planks"
+  }
+}

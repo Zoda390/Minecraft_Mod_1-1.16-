@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "sss",
+    "imi"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:milk_bucket"
+    },
+    "i": {
+      "item": "minecraft:ice"
+    },
+    "s": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "tutorial:ice_cream"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "tutorial:block/display_case"
+    }
+  }
+}

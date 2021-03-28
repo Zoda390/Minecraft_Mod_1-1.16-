@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "sss",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "item": "tutorial:ice_cream"
+    },
+    "s": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "tutorial:strawberry_ice_cream"
+  }
+}
